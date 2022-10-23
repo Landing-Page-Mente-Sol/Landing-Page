@@ -543,3 +543,12 @@ footer .left ul{
     text-decoration: none;
     color: var(--just-white);
 }
+
+.flex {
+    display: flex;
+}
+
+.logos {
+    gap: 2rem;
+    margin: auto;
+}
